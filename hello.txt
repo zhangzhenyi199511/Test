@@ -4,3 +4,4 @@ hello git
 hello branch master
 hello branch hot-fix
 hello checkout master
+clone github
